@@ -1,6 +1,6 @@
 In order to get started, register on our website [1] and download the dataset [2].
 Run PCEditorToolGUI.m and select the dataset directory (prelabeled data) and the recording.
-For more information, see the manual in \documentation.
+For more information, see the user manual in \documentation.
 
 Make sure the dataset provides the following files (included in \datasets\TUBS): 
 
