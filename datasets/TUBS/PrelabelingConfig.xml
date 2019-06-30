@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<TotalNumberOfWrittenPCs>32500</TotalNumberOfWrittenPCs>
+	<TotalNumberOfWrittenSequences>325</TotalNumberOfWrittenSequences>
+	<LastWrittenSequenceID>325</LastWrittenSequenceID>
+	<LastWrittenPCID>32500</LastWrittenPCID>
+	<RecordingInfo>
+		<Recording>
+			<Name>City Ring - Mid Day</Name>
+			<LastWrittenTimestamp>1560423585200598</LastWrittenTimestamp>
+			<NumberOfWrittenPCs>12200</NumberOfWrittenPCs>
+			<NumberOfWrittenSequences>122</NumberOfWrittenSequences>
+			<FirstPCID>1</FirstPCID>
+			<LastPCID>12200</LastPCID>
+			<FirstSequenceID>1</FirstSequenceID>
+			<LastSequenceID>122</LastSequenceID>
+			<MaxNumberOfPCsInSequence>100</MaxNumberOfPCsInSequence>
+			<LastTrackID>174417</LastTrackID>
+		</Recording>
+		<Recording>
+			<Name>Inner City - Mid Day</Name>
+			<LastWrittenTimestamp>1560426950644964</LastWrittenTimestamp>
+			<NumberOfWrittenPCs>8400</NumberOfWrittenPCs>
+			<NumberOfWrittenSequences>84</NumberOfWrittenSequences>
+			<FirstPCID>12201</FirstPCID>
+			<LastPCID>20600</LastPCID>
+			<FirstSequenceID>123</FirstSequenceID>
+			<LastSequenceID>206</LastSequenceID>
+			<MaxNumberOfPCsInSequence>100</MaxNumberOfPCsInSequence>
+			<LastTrackID>138088</LastTrackID>
+		</Recording>
+		<Recording>
+			<Name>Motorway - Mid Day</Name>
+			<LastWrittenTimestamp>1560425434156324</LastWrittenTimestamp>
+			<NumberOfWrittenPCs>11900</NumberOfWrittenPCs>
+			<NumberOfWrittenSequences>119</NumberOfWrittenSequences>
+			<FirstPCID>20601</FirstPCID>
+			<LastPCID>32500</LastPCID>
+			<FirstSequenceID>207</FirstSequenceID>
+			<LastSequenceID>325</LastSequenceID>
+			<MaxNumberOfPCsInSequence>100</MaxNumberOfPCsInSequence>
+			<LastTrackID>138012</LastTrackID>
+		</Recording>
+	</RecordingInfo>
+</Config>

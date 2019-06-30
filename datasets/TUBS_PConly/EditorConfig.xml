@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+   <ClassesVectors>
+      <StationaryClasses>
+         <Class>
+            <Name>NoLabel</Name>
+            <LabelID>0</LabelID>
+            <Color_RGB>[1 1 1]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Stationary</Name>
+            <LabelID>2</LabelID>
+            <Color_RGB>[77 77 77]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Ground</Name>
+            <LabelID>6</LabelID>
+            <Color_RGB>[102 102 128]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Undefined</Name>
+            <LabelID>1</LabelID>
+            <Color_RGB>[255 0 0]</Color_RGB>
+         </Class>
+      </StationaryClasses>
+      <MovableClasses>
+         <Class>
+            <Name>Movable</Name>
+            <LabelID>1</LabelID>
+            <Color_RGB>[255 77 51]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Car</Name>
+            <LabelID>7</LabelID>
+            <Color_RGB>[255 0 128]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Van</Name>
+            <LabelID>9</LabelID>
+            <Color_RGB>[0 191 255]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Bus</Name>
+            <LabelID>20</LabelID>
+            <Color_RGB>[66 244 215]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Truck</Name>
+            <LabelID>8</LabelID>
+            <Color_RGB>[0 250 154]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Tram</Name>
+            <LabelID>22</LabelID>
+            <Color_RGB>[167 244 66]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Bicycle</Name>
+            <LabelID>11</LabelID>
+            <Color_RGB>[255 165 0]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Scooter</Name>
+            <LabelID>21</LabelID>
+            <Color_RGB>[128 29 249]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Motorbike</Name>
+            <LabelID>10</LabelID>
+            <Color_RGB>[238 130 238]</Color_RGB>
+         </Class>
+         <Class>
+            <Name>Pedestrian</Name>
+            <LabelID>4</LabelID>
+            <Color_RGB>[77 77 204]</Color_RGB>
+         </Class>
+      </MovableClasses>
+   </ClassesVectors>
+   <RecordingInfo>
+   </RecordingInfo>
+</Config>
