@@ -438,8 +438,8 @@ setappdata(oGUI_h, 'busy', 0);
 set(oImages_h, 'Visible', 'on');
 set(oGUI_h, 'Visible', 'on');
 
-maximize(oImages_h);
-maximize(oGUI_h);
+% maximize(oImages_h);
+% maximize(oGUI_h);
 
 %% Data callbacks
 
