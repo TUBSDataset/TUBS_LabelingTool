@@ -6,9 +6,6 @@ following conditions:
 
 * Non commercial use. If you are aiming for a commercial application, please contact [2].
 * Cite our paper [4] if you are using our tool in your research or projects.
-* No republishing. If you edited our tool, you are not allowed to publish the edited version. 
-  Make a pull request on GitHub [3] instead.
-
 
 [1]	https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 
